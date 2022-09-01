@@ -1,17 +1,17 @@
-variable "panos_hostname" {
+variable "hostname" {
   description = "The external IP address of the VM-Series instance"
-  type = "string"
-  default = "192.168.1.60"
+  type = string
+  default = "192.168.1.189"
 }
 
-variable "panos_username" {
+variable "username" {
   description = "Username of the VM-Series administrator"
-  type = "string"
+  type = string
   default = "admin"
 }
 
-variable "panos_password" {
+variable "password" {
   description = "Password of the VM-Series administrator"
-  type = "string"
-  default = "NQ9mbXWC7JCfpFNp"
+  type = string
+  default = "NQ9mbXWC7JCfpFNpr"
 }
