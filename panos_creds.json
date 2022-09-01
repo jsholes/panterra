@@ -4,9 +4,7 @@
     "timeout": 10,
     "logging": ["action", "op", "uid", "osx_curl"],
     "verify_certificate": false
-}
-
-{
+}{
     "hostname": "192.168.1.189",
     "api_key": "LUFRPT1ibDNOS3dmMmJYWEZCNlUxNk5WZ3M3dDV5S3M9d1FOQlRCZTgvUFRyL0laNHBhKytlcmhtaWNiOFVLeDlrVG5NRzBNVnRmK0JMeEVLMTZWVjcwQ3JFV09ZUnNrZg==",
     "timeout": 10,

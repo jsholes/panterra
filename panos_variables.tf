@@ -1,7 +1,7 @@
 variable "hostname" {
   description = "The external IP address of the VM-Series instance"
   type = string
-  default = "192.168.1.189"
+  default = "192.168.1.60"
 }
 
 variable "username" {
